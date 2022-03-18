@@ -5,6 +5,7 @@ In the first module(Blockchain), I created a Blockchain enviroment and a Web App
 - get the blockhain,
 - mine a block,
  -check if the block was valid, while ensuring everything was cryptographed using SHA256 hash functions.
+ 
 In the second module(Cryptocurrency), I created a fictional crypotcurrency called Guscoin, and simulated a descentralized enviroment with 3 nodes and connecting all of them in the Blockchain and keeping it uptaded with the consensus of the longest chain being the valid one. In addition with the functionalities described above, I was able to:
  -add nodes, 
 -make transactions, 
